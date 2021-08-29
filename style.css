@@ -1,0 +1,44 @@
+body {
+    background-color: cadetblue ;
+    text-align: center ; 
+    margin: 0 ;
+    padding-top: 800px
+}
+.profile {
+    width :175px ;
+    border-radius: 50% ;
+    margin-bottom: 50px 
+    
+}
+#melcome {
+    position: absolute ;
+    overflow: hidden ;
+    height: 800px ;
+    color: antiquewhite ;
+    left: 0 ;
+    right: 0 ;
+    top: 0 ; 
+    bottom: 0 ;
+    opacity: 0.83 ;
+    background: linear-gradient(#e8d49b 0%,#5c5a94 100% ) ;
+    display: table ;
+    width: 100% ;
+    
+}
+#123 {
+    padding: 50px ;
+    font-size: 40px 
+    
+}
+.line {
+    height:6px ;
+    background-color: black ;
+    width: 70px ;
+    margin: 8px auto 
+}
+#para1 {
+    max-width: 450px ;
+    margin: 25px auto ;
+    font-size 17px ;
+    line-height: 1.3 
+}
